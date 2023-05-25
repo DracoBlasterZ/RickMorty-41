@@ -1,1 +1,0 @@
-# RickMorty-41
